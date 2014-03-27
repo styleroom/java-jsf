@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<faces-config version="2.1"
+    xmlns="http://java.sun.com/xml/ns/javaee"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://java.sun.com/xml/ns/javaee http://java.sun.com/xml/ns/javaee/web-facesconfig_2_1.xsd">
+    
+  <application>
+    <resource-bundle>
+      <base-name>ru.util.config</base-name>
+      <var>config</var>
+    </resource-bundle>     
+    <resource-bundle>
+      <base-name>ru.util.good_ip</base-name>
+      <var>goodip</var>
+    </resource-bundle>    
+    <resource-bundle>
+      <base-name>ru.util.messages</base-name>
+      <var>msg</var>
+    </resource-bundle>
+    <resource-bundle>
+      <base-name>ru.util.regexppattern</base-name>
+      <var>regexp</var>
+    </resource-bundle>  
+    <resource-bundle>
+      <base-name>ru.util.settings</base-name>
+      <var>sett</var>
+    </resource-bundle>          
+    <message-bundle>
+      ru.util.Messages_ru
+    </message-bundle>
+  </application>
+    
+</faces-config>
