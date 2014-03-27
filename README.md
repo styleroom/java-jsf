@@ -1,4 +1,8 @@
-java-jsf
+Образцы кода Java и JSF
 ========
-
-Java &amp; JSF
+Примеры используются в следующих web-проектах:
+<ol>
+<li><a href="http://javasource.ru:5050">javasource.ru:5050</a></li>
+<li><a href="http://vpvlab.ru:5050/tenders-gf-exit/">заготовка-тендеры</a></li>
+<li><a href="http://vpvlab.ru:5050/portal-gf/">заготовка-портал</a></li>
+</ol>
