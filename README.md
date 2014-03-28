@@ -1,6 +1,6 @@
 Образцы кода Java и JSF
 ========
-<img src="http://img-fotki.yandex.ru/get/9795/13223519.1c/0_95ad3_621e6a3e_XL.gif" alt="">
+<img src="http://img-fotki.yandex.ru/get/9805/13223519.1c/0_95ad2_59738c18_XL.gif" alt="">
 <br>
 Примеры используются в следующих web-проектах:
 <ol>
